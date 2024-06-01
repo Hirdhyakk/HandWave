@@ -11,7 +11,7 @@ HandWave is an interactive application that allows you to control presentations 
 ### Steps
 1. Clone the repository:
     ```sh
-    git clone https://github.com/Hirdhyakk/HandWave
+    git clone https://github.com/Hirdhyakk/HandWave.git
     cd HandWave
     ```
 
